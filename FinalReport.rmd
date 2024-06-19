@@ -74,4 +74,7 @@ The fisher data test shows that the probability value is 0.0000000423, we also r
 
 # Discussion and Conclusion
 
+First, we looked at the data and needed to find a to separate the infected individuals From the data becasue that is what we are asking for, next we run a graph result; specifically a bar chart, to see the people infected and to see weather the drug or the Placebo helps them against aids better. Next our numerical data shows us that those who take the drug versus the placebo are more likely to not get aids. Then we run a few inferential test: chisq test, chisqtestGC, and the fisher test. Lastly, after I separated and read all of my findings, we can conclude, yes, the drug is working and is three times more likely to prevent Aids.
+
+
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
