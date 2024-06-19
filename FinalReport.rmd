@@ -62,6 +62,15 @@ Out of the infected people listed in the Numerical description, the people who u
 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
 
+```{r}
+chisq.test(table1)
+chisqtestGC(table1)
+fisher.test(table1)
+```
+
+The fisher data test shows that the probability value is 0.0000000423, we also reject the null hypotheses, there is a massive difference between the infected people taking the drug compared to the people taking Placebo. The drug in question is doing its job, and decresing the risk of Aids
+
+
 
 # Discussion and Conclusion
 
